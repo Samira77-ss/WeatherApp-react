@@ -9,7 +9,7 @@ export default function Footer() {
         <span className="coder">
           <strong> Samira Seyfi</strong> and is
           <a
-            href="https://github.com/Samira77-ss/WeatherAppSS7"
+            href="https://github.com/Samira77-ss/WeatherApp-react"
             className="github-link"
             target="_blank"
             rel="noreferrer"
