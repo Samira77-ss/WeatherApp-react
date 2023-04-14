@@ -3,7 +3,7 @@ import "./Weather.css";
 import Footer from "./Footer";
 export default function Weather() {
   let weatherData = {
-    city: "Tokyo",
+    city: "New York",
     temperature: 17,
     date: "Tue, Mar 28, 17:07 PM",
     description: "Clear",
